@@ -9,7 +9,7 @@
 </p> 
 
 - 🏢 I'm working as a Data Analyst @ Maxab 
-- 👨‍💻 Teaching what I know about data at Dotpy.
+- 👨‍💻 Teaching what I know about data
 - ⚡ Currently, I'm learning about Analytics Engineering Field. 
 - 💬 Ask me about my experience with SQL, Python, or anything related to Data Analysis.
 - 👨‍💻 Check out my portfolio at https://adhamalqatawy.github.io/Portfolio/
