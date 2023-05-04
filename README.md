@@ -8,8 +8,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst;Analytics%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Data Analyst @ Maxab 
-- 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
+- 🏢 I'm working as a Data Analyst @ Maxab 
+- 👨‍💻 Teaching what I know about data at Dotpy.
 - ⚡ Currently, I'm learning about Analytics Engineering Field. 
 - 💬 Ask me about my experience with SQL, Python, or anything related to Data Analysis.
 - 👨‍💻 Check out my portfolio at https://adhamalqatawy.github.io/Portfolio/
