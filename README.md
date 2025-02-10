@@ -19,7 +19,10 @@
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=aws)&nbsp;
+![DOCKER](https://img.shields.io/badge/-DOCKER-05122A?style=flat&logo=docker)&nbsp;
+![TABLEAU](https://img.shields.io/badge/-Airflow-05122A?style=flat&logo=airflow)&nbsp;
+![SNOWFLAKE](https://img.shields.io/badge/-SNOWFLAKE-05122A?style=flat&logo=snowflake)&nbsp;
 ![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoftexcel)&nbsp;
 ![MetaBase](https://img.shields.io/badge/-MetaBase-05122A?style=flat&logo=MetaBase)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
